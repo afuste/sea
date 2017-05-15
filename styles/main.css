@@ -26,5 +26,16 @@ pre {
 
   .side-collapse.in {
     width: 0; } }
+.prox1 {
+  background-color: rgba(255, 20, 51, 0.4); }
+
+.prox2 {
+  background-color: rgba(255, 102, 153, 0.4); }
+
+.prox3 {
+  background-color: rgba(204, 204, 255, 0.4); }
+
+.prox4 {
+  background-color: rgba(255, 0, 51, 0.4); }
 
 /*# sourceMappingURL=main.css.map */
