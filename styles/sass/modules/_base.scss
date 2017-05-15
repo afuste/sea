@@ -3,6 +3,10 @@ body {
     position: relative;
 }
 
+img{
+    width: 100%;
+}
+
 pre {
     tab-size: 8;
 }
@@ -45,4 +49,8 @@ pre {
 
 .prox4 {
     background-color: $prox4;
+}
+
+.map {
+    background-image: url('img/map.jpg');
 }

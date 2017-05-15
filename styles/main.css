@@ -2,6 +2,9 @@ body {
   padding-top: 50px;
   position: relative; }
 
+img {
+  width: 100%; }
+
 pre {
   tab-size: 8; }
 
@@ -37,5 +40,8 @@ pre {
 
 .prox4 {
   background-color: rgba(255, 0, 51, 0.4); }
+
+.map {
+  background-image: url("img/map.jpg"); }
 
 /*# sourceMappingURL=main.css.map */
